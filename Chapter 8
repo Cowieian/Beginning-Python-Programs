@@ -1,0 +1,7 @@
+def favorite_book(title):
+    """Display a message about someone's favorite book."""
+    print(f"{title} is one of my favorite books.")
+
+favorite_book('The Abstract Wild')
+
+This code comes from Chapter 8 of: Matthes, E. (2023). Python crash course (3rd ed.). No Starch Press.
