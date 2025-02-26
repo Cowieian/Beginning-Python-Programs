@@ -11,3 +11,5 @@ for pizza in favorite_pizzas:
     print(f"I really love {pizza} pizza!")
 
 print("\nI really love pizza!")
+
+#This code comes from Chapter 4 of: Matthes, E. (2023). Python crash course (3rd ed.). No Starch Press.
